@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\bin\Debug\net6.0\suma-dos-numeros.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\bin\Debug\net6.0\suma-dos-numeros.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\bin\Debug\net6.0\suma-dos-numeros.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\bin\Debug\net6.0\suma-dos-numeros.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\bin\Debug\net6.0\suma-dos-numeros.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\refint\suma-dos-numeros.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\suma-dos-numeros.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\suma-dos-numeros\obj\Debug\net6.0\ref\suma-dos-numeros.dll

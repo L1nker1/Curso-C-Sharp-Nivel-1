@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\bin\Debug\net6.0\num-cubo.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\bin\Debug\net6.0\num-cubo.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\bin\Debug\net6.0\num-cubo.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\bin\Debug\net6.0\num-cubo.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\bin\Debug\net6.0\num-cubo.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\refint\num-cubo.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\num-cubo.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\num-cubo\obj\Debug\net6.0\ref\num-cubo.dll

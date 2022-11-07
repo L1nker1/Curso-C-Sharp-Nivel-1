@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\bin\Debug\net6.0\promedio.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\bin\Debug\net6.0\promedio.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\bin\Debug\net6.0\promedio.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\bin\Debug\net6.0\promedio.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\bin\Debug\net6.0\promedio.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\refint\promedio.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\promedio.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\promedio\obj\Debug\net6.0\ref\promedio.dll

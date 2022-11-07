@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\bin\Debug\net6.0\tu-proyecto.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\bin\Debug\net6.0\tu-proyecto.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\bin\Debug\net6.0\tu-proyecto.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\bin\Debug\net6.0\tu-proyecto.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\bin\Debug\net6.0\tu-proyecto.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\refint\tu-proyecto.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\tu-proyecto.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\tu-proyecto\obj\Debug\net6.0\ref\tu-proyecto.dll

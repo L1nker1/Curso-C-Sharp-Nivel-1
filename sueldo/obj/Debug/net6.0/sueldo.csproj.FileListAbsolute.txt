@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\bin\Debug\net6.0\sueldo.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\bin\Debug\net6.0\sueldo.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\bin\Debug\net6.0\sueldo.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\bin\Debug\net6.0\sueldo.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\bin\Debug\net6.0\sueldo.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\refint\sueldo.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\sueldo.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\sueldo\obj\Debug\net6.0\ref\sueldo.dll

@@ -1,0 +1,15 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\bin\Debug\net6.0\km-ciudades.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\bin\Debug\net6.0\km-ciudades.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\bin\Debug\net6.0\km-ciudades.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\bin\Debug\net6.0\km-ciudades.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\bin\Debug\net6.0\km-ciudades.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\refint\km-ciudades.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\km-ciudades.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\km-ciudades\obj\Debug\net6.0\ref\km-ciudades.dll
