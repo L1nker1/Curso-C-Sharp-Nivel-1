@@ -1,0 +1,16 @@
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.csproj.AssemblyReference.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.AssemblyInfoInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.AssemblyInfo.cs
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\bin\Debug\net5.0\TPFinal_Roldan.exe
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\bin\Debug\net5.0\TPFinal_Roldan.deps.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\bin\Debug\net5.0\TPFinal_Roldan.runtimeconfig.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\bin\Debug\net5.0\TPFinal_Roldan.runtimeconfig.dev.json
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\bin\Debug\net5.0\TPFinal_Roldan.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\bin\Debug\net5.0\TPFinal_Roldan.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\refint\TPFinal_Roldan.dll
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.pdb
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\TPFinal_Roldan.genruntimeconfig.cache
+C:\Users\LUCAS\Desktop\Curso C# - Nivel 1\TPFinal_Roldan\obj\Debug\net5.0\ref\TPFinal_Roldan.dll
